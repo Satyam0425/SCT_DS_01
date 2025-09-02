@@ -1,4 +1,6 @@
-Task 01 - Bar Chart Visualization (Skillcraft Technology)
+Bar Chart visualization project using Power BI, created as part of the SkillCraft Data Science Internship. This task demonstrates data cleaning, preparation, and visual representation of population distribution using age, gender, and total population metrics.
+
+| Task 01 - Bar Chart Visualization (Skillcraft Technology)
 
 This repository contains my first task from the SkillCraft Data Science Internship. The task focuses on creating a Bar Chart Visualization in Power BI to represent structured population data.
 
